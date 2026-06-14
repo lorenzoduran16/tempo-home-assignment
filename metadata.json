@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Insights Engine",
+  "description": "High-fidelity analytics and narrative synthesis engine that aggregates GitHub repository collaboration metrics and generates professional workload telemetry summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
